@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WADetectFace", "WADetectFace\WADetectFace.csproj", "{A6EAAFD4-8149-49FE-A707-307560AE614B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{646298D9-7B44-448A-8D99-E08145460413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6EAAFD4-8149-49FE-A707-307560AE614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EAAFD4-8149-49FE-A707-307560AE614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EAAFD4-8149-49FE-A707-307560AE614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EAAFD4-8149-49FE-A707-307560AE614B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646298D9-7B44-448A-8D99-E08145460413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646298D9-7B44-448A-8D99-E08145460413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646298D9-7B44-448A-8D99-E08145460413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646298D9-7B44-448A-8D99-E08145460413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC1B6657-E2A5-4498-8F71-EDCD85ED9AF9}
+	EndGlobalSection
+EndGlobal
